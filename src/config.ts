@@ -35,7 +35,7 @@ export const siteConfig = {
       name: "CrewOps — Full-Stack Mobile Platform",
       description:
         "A full-stack rowing management platform built with React Native (Expo) to manage athletes, boats, practices, and regattas with lineup validation, seat optimization, reliability scoring, and performance analytics.",
-      link: "", // add GitHub or demo link if you have one
+      link: "https://youtu.be/PVagNUDkbZU?si=smWCzjnFmtW4AKkl", // add GitHub or demo link if you have one
       skills: ["React Native", "TypeScript", "Expo", "State Management"],
     },
     {
