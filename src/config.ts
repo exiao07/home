@@ -49,7 +49,7 @@ export const siteConfig = {
     {
       name: "Study Timer + Task Manager (iOS)",
       description:
-        "A productivity app combining a study timer with task management workflows, built full-stack with real-time persistence and clean UI patterns. Achieved a 4.7+ rating on iOS app store with 30+ downloads",
+        "A productivity app combining a study timer with task management workflows, built full-stack with real-time persistence and clean UI patterns. Achieved a 4.7+ rating on iOS app store with 30+ downloads.",
       link: "",
       skills: ["React Native", "TypeScript", "Node.js"],
     },
