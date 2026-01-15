@@ -41,7 +41,7 @@ export const siteConfig = {
     {
       name: "Baby Party Arcade (HTML5 Canvas Mini-Game Suite)",
   description:
-    "Built a single-file, touch-first arcade web app for babies/toddlers using vanilla HTML/CSS/JS + an HTML5 Canvas render loop. Includes 4 mini-games (Pop Bubbles, Chase Star, Animal Tap, Music Pad) with a shared particle/confetti engine, streak + tap scoring, responsive iPad layouts, Web Audio feedback, optional text-to-speech prompts, persistent settings via localStorage, and a 3-second “Parent” gate for safety controls. Runs offline-friendly and can be saved as a Home Screen app on iOS.",
+    "Built a single-file, touch-first arcade web app for babies/toddlers using vanilla HTML/CSS/JS + an HTML5 Canvas render loop. Includes 4 mini-games with a shared particle/confetti engine, streak + tap scoring, responsive iPad layouts, Web Audio feedback, optional text-to-speech prompts, persistent settings via localStorage, and a 3-second “Parent” gate for safety controls. Runs offline-friendly and can be saved as a Home Screen app on iOS.",
   link: "https://github.com/ethanxiao/baby-game",
   skills: ["JavaScript", "HTML5 Canvas", "HTML", "CSS", "Web Audio API", "localStorage"],
 
@@ -49,7 +49,7 @@ export const siteConfig = {
     {
       name: "Study Timer + Task Manager (iOS)",
       description:
-        "A productivity app combining a study timer with task management workflows, built full-stack with real-time persistence and clean UI patterns.",
+        "A productivity app combining a study timer with task management workflows, built full-stack with real-time persistence and clean UI patterns. Achieved a 4.7+ rating on iOS app store with 30+ downloads",
       link: "",
       skills: ["React Native", "TypeScript", "Node.js"],
     },
